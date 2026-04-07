@@ -29,6 +29,7 @@ Tarayıcıdan açın:
 
 
 ## Arayüz
+![](<Ekran görüntüsü 2026-04-07 150340.png>)
 
 ![](<Ekran görüntüsü 2026-04-07 141713.png>)
 
